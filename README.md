@@ -1,5 +1,7 @@
 # 🛸 LiftED Modular Drone Project
 
+![LiftED Logo](./assets/logo.png)
+
 **LiftED** is an educational modular drone project designed for classroom use, emphasizing hands-on learning in electronics, programming, and 3D design. The goal is to empower students to build, modify, and understand the inner workings of a fully functional drone using accessible components and open-source documentation.
 
 ---
