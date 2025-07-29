@@ -23,10 +23,10 @@ Bay-Arenac ISD Career Center – Bay City, Michigan
 
 ## 📏 Key Files
 
-- [📐 Dimensions.md](./Dimensions.md)  
+- 📐[Dimensions.md](./Dimensions.md)  
   Measurements and mounting details for all drone components used in the modeling and CAD phase.
 
-- [🧩 Parts.md](./Parts.md)  
+- 🧩[Parts.md](./Parts.md)  
   Sourced components with links and quantities used per drone build.
 
 ## 📫 Contact
