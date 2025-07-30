@@ -19,7 +19,6 @@ Bay-Arenac ISD Career Center – Bay City, Michigan
 - **Modular Design**: Every part is designed to be assembled and disassembled repeatedly, making the drone reusable year after year.
 - **3D Printed Frame**: Durable ASA plastic ensures structural integrity and UV resistance.
 - **ESP32 & Raspberry Pi**: Combines real-time control with advanced vision and networking capabilities.
-- **Custom Curriculum Ready**: Designed as part of the MiSTEM LiftED initiative to enhance student engagement and technical literacy.
 
 ## 📏 Key Files
 
